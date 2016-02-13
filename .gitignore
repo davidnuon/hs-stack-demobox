@@ -1,4 +1,5 @@
 .vagrant/
+src/
 dist
 cabal-dev
 *.o
